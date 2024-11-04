@@ -10,7 +10,7 @@
 
 - gitscrap.py: Python script used to collect this data
 
-# Data Collection
+# Data Collection:
 
 - Data collected using GitHub API
 
